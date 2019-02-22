@@ -1,0 +1,21 @@
+{
+  "name": "tianye-cli",
+  "version": "1.0.1",
+  "description": "A personal scaffold tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhaitianye/tianye-cli.git"
+  },
+  "keywords": [
+    "tianye-cli",
+    "tianye",
+    "zhaitianye",
+    "basess"
+  ],
+  "author": "zhaitianye",
+  "license": "MIT"
+}
