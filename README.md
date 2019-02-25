@@ -2,7 +2,7 @@
 
 
 
-<h2 align="center">tianye-cli</h2>
+## tianye-cli
 
 A personal scaffold tool
 
